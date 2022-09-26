@@ -5,8 +5,8 @@ pipeline {
 	}
 	
 	environment {
-		PROJECT_ID = 'vast-bounty-356813'
-                CLUSTER_NAME = 'cluster-1'
+		PROJECT_ID = 'sage-courier-363514'
+                CLUSTER_NAME = 'mycluster'
                 LOCATION = 'us-central1-c'
                 CREDENTIALS_ID = 'kubernetes'		
 	}
